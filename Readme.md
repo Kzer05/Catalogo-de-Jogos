@@ -1,5 +1,5 @@
 # Cátalogo de Jogos
-Um projeto usando HTML, CSS e PHP para fazer uma página dinâmica.
+Um projeto usando HTML e CSS para fazer uma página estática.
 
 <!-- 
 ## (HTML)
